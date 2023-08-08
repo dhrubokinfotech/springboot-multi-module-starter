@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d354b21-d5eb-454f-a4b6-9135cb85386d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/starter-core/src/main/resources/application-production.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starter-core/src/main/resources/application-production.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/starter-core/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starter-core/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "7b6d37494449307bda2b68c18da08aa2",
+    "spring.configuration.checksum": "89d2c707b81ae6b1d5b9e16913b0df03",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,7 +95,8 @@
       <workItem from="1691478090268" duration="39000" />
       <workItem from="1691478153848" duration="7639000" />
       <workItem from="1691485840008" duration="31000" />
-      <workItem from="1691489335171" duration="706000" />
+      <workItem from="1691489335171" duration="795000" />
+      <workItem from="1691491540899" duration="701000" />
     </task>
     <servers />
   </component>
