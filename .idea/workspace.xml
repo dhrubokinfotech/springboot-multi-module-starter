@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d354b21-d5eb-454f-a4b6-9135cb85386d" name="Changes" comment="" />
+    <list default="true" id="6d354b21-d5eb-454f-a4b6-9135cb85386d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/starter-core/src/main/resources/application-production.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starter-core/src/main/resources/application-production.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter-core/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starter-core/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Dhrubok/springboot-multi-module-starter",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/mehedi_springboot_projects/springboot-multi-module-starter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,6 +95,7 @@
       <workItem from="1691478090268" duration="39000" />
       <workItem from="1691478153848" duration="7639000" />
       <workItem from="1691485840008" duration="31000" />
+      <workItem from="1691489335171" duration="706000" />
     </task>
     <servers />
   </component>
