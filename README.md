@@ -54,3 +54,33 @@ mvn spring-boot:run
 Or, you can run this application via the <span style = "color: cyan">Run</span> button of your preferred IDE.
 
 You can get the REST APIs with documentation here: http://localhost:8081/swagger-ui/index.html.
+
+### User Manual
+- [ ] Step - 1 : Rename the project as all as the project directory.
+- [ ] Step - 2 : Add a new module. Suppose you've added a module with GroupId: <span style = "color: cyan">com.disl</span> and ArtifactId: <span style = "color: cyan">contact-management</span>. A new module will be added with a pom.xml file.
+- [ ] Step - 3 : Add the following dependency in the pom.xml file of your new module - 
+
+```
+<dependency>
+    <groupId>com.disl</groupId>
+    <artifactId>starter-commons</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+</dependency>
+```
+
+It means that, your new module now can use the <span style = "color: cyan">starter-commons</span> module. There are all the common properties and configurations in <span style = "color: cyan">starter-commons</span> module.
+- [ ] Step - 4 : Now you can implement a feature - add models, repositories, services in your new module.
+- [ ] Step - 4 : The Controller classes of your new module should be in _**com.disl.startercore.feature**_ package under the <span style = "color: cyan">starter-core</span> module. While creating Controllers of your new module in <span style = "color: cyan">starter-core</span> module, your need to inject the Service classes of your new module. So, add the following dependency in the pom.xml file of <span style = "color: cyan">starter-core</span> module -
+
+```
+<dependency>
+    <groupId>com.disl</groupId>
+    <artifactId>contact-management</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <scope>compile</scope>
+</dependency>
+```
+
+- [ ] Step - 5 : Write the Controller classes of your new module and run your application.
+
+Thank You.

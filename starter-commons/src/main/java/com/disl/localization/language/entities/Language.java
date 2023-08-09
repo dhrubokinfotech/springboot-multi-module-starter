@@ -1,7 +1,7 @@
 package com.disl.localization.language.entities;
 
 import com.disl.commons.models.AuditModel;
-import com.disl.localization.language.constants.AppTables.*;
+import com.disl.localization.language.constants.AppTables.LanguageTable;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

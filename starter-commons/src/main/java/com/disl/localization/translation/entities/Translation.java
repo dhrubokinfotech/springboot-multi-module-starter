@@ -3,7 +3,7 @@ package com.disl.localization.translation.entities;
 import com.disl.commons.constants.CommonConstants;
 import com.disl.commons.models.AuditModel;
 import com.disl.localization.localized_text.entities.LocalizedText;
-import com.disl.localization.translation.constants.AppTables.*;
+import com.disl.localization.translation.constants.AppTables.TranslationTable;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

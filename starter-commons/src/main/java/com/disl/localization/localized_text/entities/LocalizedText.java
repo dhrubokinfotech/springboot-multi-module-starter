@@ -2,7 +2,7 @@ package com.disl.localization.localized_text.entities;
 
 import com.disl.commons.constants.CommonConstants;
 import com.disl.commons.models.AuditModel;
-import com.disl.localization.localized_text.constants.AppTables.*;
+import com.disl.localization.localized_text.constants.AppTables.LocalizedTextTable;
 import com.disl.localization.translation.entities.Translation;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
