@@ -39,6 +39,12 @@ public final class AppConstants {
 			put("ROLE_READ", "ROLE READ");
 			put("ROLE_UPDATE", "ROLE UPDATE");
 			put("ROLE_DELETE", "ROLE DELETE");
+
+			put("NOTIFICATION_SEND", "NOTIFICATION SEND");
+			put("USER_UPDATE_FROM_ADMIN", "USER UPDATE FROM ADMIN");
+
+			put("LANGUAGE_CREATE", "LANGUAGE CREATE");
+			put("LANGUAGE_READ", "LANGUAGE_READ");
 		}
 	};
 }
